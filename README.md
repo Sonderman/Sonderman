@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonderman" alt="sonderman" /></a> </p>
 
-- 🌱 I’m currently learning **Unity3D and WPF**
+- 🌱 I’m currently learning **Unity3D and Flutter**
 
 - 💬 Ask me about **Flutter and Unity**
 
