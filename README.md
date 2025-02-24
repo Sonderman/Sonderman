@@ -10,12 +10,11 @@
 
 ###
 
-<p align="left">💬 Ask me about Flutter and Unity</p>
+<p align="left">💬 Ask me about Flutter and Unity.<br><br>Currently focused on researching AI (LLM)-aided tech stacks and exploring how to use them efficiently in software development.</p>
 
 ###
 
 <br clear="both">
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
