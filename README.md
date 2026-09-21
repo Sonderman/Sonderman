@@ -46,10 +46,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonderman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonderman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Sonderman/Sonderman/metrics/metrics.svg" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Sonderman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonderman&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sonderman/Sonderman/metrics/metrics-calendar.svg" alt="activity graph"  />
 </div>
 
 ###
