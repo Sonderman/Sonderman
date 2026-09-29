@@ -1,18 +1,30 @@
-<img align="left" height="200" src="https://hips.hearstapps.com/hmg-prod/images/the-mandalorian-season-4-release-date-episodes-6440622da5520.png?crop=0.563xw:1.00xh;0.173xw,0&resize=980:*"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sonderman/Sonderman/master/assets/banner.svg" alt="Ali Haydar AYAR — Network & Systems Administrator · Flutter & Unity Developer · AI Automation" />
+</div>
 
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sonderman.Sonderman&" alt="visitor badge" />
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sonderman.Sonderman&"  />
+---
 
-###
+### Hi, I'm Ali Haydar 👋
 
-<p align="left">Hi 👋, I'm Ali Haydar.  A passionate Game & Mobile Application developer from Türkiye.</p>
+**Computer Engineering graduate** working on both sides of the stack: I run an enterprise intranet of **~10,000 users** as a **Network & Systems Administrator**, and I design, build and ship **mobile apps, games and AI-driven automation** as the founder of **Sondermium**, my personal software studio.
 
-###
+**🔧 What I do**
 
-<p align="left">💬 Ask me about Flutter and Unity.<br><br>Currently focused on researching AI (LLM)-aided tech stacks and exploring how to use them efficiently in software development.</p>
+- **Enterprise networking** — switch & router configuration, IP planning and capacity management for a large-scale intranet. Certified **Cisco SISE** and **H3C Advanced Switching & Routing**.
+- **Automation & AI** — Active Directory-integrated automations and internal support tooling, plus daily agentic AI workflows (Hermes Agent, OpenCode, Orca) that shorten the path from idea to shipped software.
+- **Product development** — Flutter and Unity end to end: architecture, UI, release and maintenance.
 
-###
+**📌 Featured projects**
+
+- **[ChatBlue](https://github.com/Sonderman/ChatBlue)** — fully offline Bluetooth Classic peer-to-peer chat: no server, no internet, no account. Built for short-range communication when networks are down. `Flutter · Dart · GPL-3.0`
+- **[OpenFreeAiHub](https://github.com/Sonderman/OpenFreeAiHub)** — open-source Flutter app that puts free AI tools in users' hands: anonymous, unlimited, no sign-up. `Flutter · Dart · MIT`
+- **[PDFtoTIFF](https://github.com/Sonderman/PDFtoTIFF)** — lightweight Windows desktop utility for PDF → TIFF conversion. `Python · tkinter`
+
+**🧰 Toolbox** — Flutter · Dart · Unity · C# · Python · Cisco ISE / NAC · H3C switching & routing · Active Directory · Windows Server · Linux · Git · Firebase · MongoDB
 
 <br clear="both">
 
@@ -28,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="cisco logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows server logo" />
 </div>
 
 ###
@@ -62,4 +76,8 @@
 
 <img src="https://raw.githubusercontent.com/Sonderman/Sonderman/output/snake.svg" alt="Snake animation" />
 
-###
+<br clear="both">
+
+### 🤝 Let's build something
+
+I'm **not actively job hunting**, but I'm always open to **high-impact projects and ambitious teams**. 💬 Ask me about Flutter, Unity, enterprise networking or AI automation — reach me on [LinkedIn](https://www.linkedin.com/in/ali-haydar-ayar-b45a4315b/) or at [alihaydar338@gmail.com](mailto:alihaydar338@gmail.com).
